@@ -1,7 +1,9 @@
-tensorflow
+tensorflow==2.15.0
 scikit-learn
 pandas
 matplotlib
 seaborn
 imbalanced-learn
 opencv-python
+tensorflow-hub==0.16.1
+tf-keras==2.15.1
